@@ -3,7 +3,7 @@
 
 📌 I am **Danish Ahmed**, currently learning Web Developement and building exciting real-world projects.
 
-📌 I am `extremely motivated` at learning to excel in my skills.I like to share whatever little things I learn along my journey !
+📌 I consistently keep learning to excel in my skills.And I like to share whatever little things I learn along my journey !
 
 📌 My technical skills include :
 
