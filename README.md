@@ -1,7 +1,7 @@
 # Hello there! 👋🏻
 
 
-📌 I am **Danish Ahmed**, currently learning Web Developement and building exciting real-world projects.
+📌 I am **Danish Ahmed**. I am Fullstack developer with an interest in Frontend development.
 
 📌 I consistently keep learning to excel in my skills.And I like to share whatever little things I learn along my journey !
 
