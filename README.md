@@ -23,3 +23,5 @@
 [<img align="center" height="40" src="https://img.icons8.com/color/48/000000/hot-article.png"/>](https://hashnode.com/@DanishA27)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/danishahmed27)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/sum1writes)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanishOnGit)](https://github.com/anuraghazra/github-readme-stats)
